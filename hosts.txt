@@ -4,6 +4,23 @@ https://assets.windscribe.com/custom_blocklists/clickbait.txt
 https://bitbucket.org/nicktabick/adblock-rules/raw/master/nt-adblock.txt
 https://crapblock.theel0ja.info/crapblock-annoyances.txt
 https://crapblock.theel0ja.info/even-cleaner-news-sites.txt
+https://easylist-downloads.adblockplus.org/easylist.txt
+https://easylist-downloads.adblockplus.org/Liste_AR.txt
+https://easylist-downloads.adblockplus.org/easylistchina.txt
+https://easylist-downloads.adblockplus.org/easylistdutch.txt
+https://easylist-downloads.adblockplus.org/liste_fr.txt
+https://easylist-downloads.adblockplus.org/easylistgermany.txt
+https://raw.githubusercontent.com/szpeter80/hufilter/master/hufilter.txt
+https://easylist-downloads.adblockplus.org/easylistitaly.txt
+https://secure.fanboy.co.nz/fanboy-japanese.txt
+https://secure.fanboy.co.nz/fanboy-korean.txt
+https://secure.fanboy.co.nz/fanboy-polish.txt
+https://secure.fanboy.co.nz/fanboy-espanol.txt
+https://www.zoso.ro/pages/rolist.txt
+https://secure.fanboy.co.nz/fanboy-swedish.txt
+https://secure.fanboy.co.nz/fanboy-turkish.txt
+https://easylist-downloads.adblockplus.org/advblock.txt
+https://easylist-downloads.adblockplus.org/fanboy-social.txt
 https://easylist-downloads.adblockplus.org/adwarefilters.txt
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
@@ -50,6 +67,7 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion Sprout
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ExtremelyCondensedList.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GamestoreMovieRemover.txt
+https://raw.github.com/liamja/Prebake/master/obtrusive.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/I%20Don't%20Want%20to%20Download%20Your%20Browser.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/IHateOverpromotedGames.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/PornHubPureTrailMixExperience.txt
@@ -137,3 +155,5 @@ https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu.txt
+https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go.txt
