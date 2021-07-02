@@ -8,6 +8,10 @@ https://easylist-downloads.adblockplus.org/easylist.txt
 https://easylist-downloads.adblockplus.org/Liste_AR.txt
 https://easylist-downloads.adblockplus.org/easylistchina.txt
 https://easylist-downloads.adblockplus.org/easylistdutch.txt
+https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt
+https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
+https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt
+https://easylist-downloads.adblockplus.org/easyprivacy.tpl
 https://easylist-downloads.adblockplus.org/liste_fr.txt
 https://easylist-downloads.adblockplus.org/easylistgermany.txt
 https://raw.githubusercontent.com/szpeter80/hufilter/master/hufilter.txt
@@ -157,3 +161,4 @@ https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.tx
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu.txt
 https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go.txt
+https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt
