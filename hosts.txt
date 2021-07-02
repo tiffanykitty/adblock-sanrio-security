@@ -136,3 +136,4 @@ https://www.kiboke-studio.hr/i-dont-care-about-cookies/abp/
 https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
+https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
