@@ -179,3 +179,14 @@ https://www.fanboy.co.nz/r/fanboy-complete.txt
 https://www.fanboy.co.nz/r/fanboy-ultimate.txt
 https://easylist-downloads.adblockplus.org/fanboy-social.txt
 https://www.fanboy.co.nz/enhancedstats.txt
+https://oooo.b-cdn.net/blahdns/blahdns_hosts.txt
+https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TeslaCrypt-Ransomware-Payment-Sites-Domain-Blocklist.txt
+https://filters.adtidy.org/extension/ublock/filters/2.txt
+https://filters.adtidy.org/extension/ublock/filters/1.txt
+https://filters.adtidy.org/extension/ublock/filters/3.txt
+https://filters.adtidy.org/extension/ublock/filters/4.txt
+https://filters.adtidy.org/extension/ublock/filters/5.txt
+https://filters.adtidy.org/extension/ublock/filters/6.txt
+https://filters.adtidy.org/extension/ublock/filters/7.txt
+https://raw.githubusercontent.com/dnswarden/blocklist/master/blacklist-formats/hosts
