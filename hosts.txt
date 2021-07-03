@@ -191,4 +191,7 @@ https://filters.adtidy.org/extension/ublock/filters/6.txt
 https://filters.adtidy.org/extension/ublock/filters/7.txt
 https://raw.githubusercontent.com/dnswarden/blocklist/master/blacklist-formats/hosts
 https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
-https://raw.githubusercontent.com/tiffanykitty/adblock-sanrio-security/main/filter.txt
+https://block.energized.pro/unified/formats/domains.txt
+https://block.energized.pro/unified/formats/hosts-ipv6.txt
+https://block.energized.pro/unified/formats/domains.txt
+https://block.energized.pro/unified/formats/one-line.txt
