@@ -190,3 +190,5 @@ https://filters.adtidy.org/extension/ublock/filters/5.txt
 https://filters.adtidy.org/extension/ublock/filters/6.txt
 https://filters.adtidy.org/extension/ublock/filters/7.txt
 https://raw.githubusercontent.com/dnswarden/blocklist/master/blacklist-formats/hosts
+https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
+https://raw.githubusercontent.com/tiffanykitty/adblock-sanrio-security/main/filter.txt
