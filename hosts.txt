@@ -543,3 +543,8 @@ https://block.energized.pro/extensions/xtreme/formats/domains.txt
 https://block.energized.pro/ultimate/formats/hosts.txt
 https://block.energized.pro/basic/formats/hosts.txt
 https://block.energized.pro/spark/formats/hosts.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CombinedBlacklists/CombinedBlackLists.txt
+https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
+http://blacklists.ntop.org/blacklist-hostnames.txt
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/fontsparsed
+https://gitlab.com/my-privacy-dns/matrix/matrix/-/raw/master/source/tracking/domains.list
