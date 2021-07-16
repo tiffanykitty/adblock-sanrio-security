@@ -572,3 +572,5 @@ https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilte
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/antiadblock.txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers.txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/UsefulAdsFilter/sections/usefulads.txt
+https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
+https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
