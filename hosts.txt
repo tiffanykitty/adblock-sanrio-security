@@ -574,3 +574,6 @@ https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilte
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/UsefulAdsFilter/sections/usefulads.txt
 https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
+https://filters.adavoid.org/ultimate-ad-filter.txt
+https://filters.adavoid.org/ultimate-privacy-filter.txt
+https://filters.adavoid.org/ultimate-security-filter.txt
