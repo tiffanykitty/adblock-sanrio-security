@@ -52,3 +52,6 @@ m.facebook.com###share-to-whatsapp
 www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
 www.youtube.com###details > .ytd-rich-grid-media.style-scope.yt-simple-endpoint
 www.youtube.com##.ytd-video-primary-info-renderer.style-scope.super-title
+
+! 2022-05-12 https://m.youtube.com
+m.youtube.com##.standalone-collection-badge
