@@ -1,0 +1,48 @@
+block filters for sanrio
+
+
+! 2022-05-12 https://www.google.com.mx
+www.google.com.mx##.yW2qdf
+www.google.com.mx##.f6F9Be.M6hT6
+
+! 2022-05-12 https://m.youtube.com
+m.youtube.com##.rich-grid-sticky-header.rich-grid-renderer-header
+m.youtube.com##.pivot-w2w.pivot-bar-item-tab
+m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(1)
+m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
+m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(3)
+m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(4)
+m.youtube.com##ytm-pivot-bar-renderer
+m.youtube.com##ytm-video-with-context-renderer > ytm-media-item > .details > .media-channel
+m.youtube.com##span.small-text.ytm-badge-and-byline-item-byline:nth-of-type(1)
+m.youtube.com##span.ytm-badge-and-byline-separator:nth-of-type(2)
+m.youtube.com##ytm-video-with-context-renderer > ytm-media-item > .details > .cbox.media-item-info > .media-item-menu
+m.youtube.com##.slim-owner-profile-icon
+m.youtube.com##.cbox.non-search-mode.mobile-topbar-header-content > ytm-menu > .icon-button
+m.youtube.com###toasts
+m.youtube.com##ytm-radio-renderer > ytm-media-item > .details > .cbox.media-item-info > .media-item-menu > ytm-menu
+
+! 2022-05-12 https://www.google.com.mx
+www.google.com.mx##.B4GxFc.b0KoTc
+www.google.com.mx##.B4GxFc.b0KoTc
+
+! 2022-05-12 https://m.facebook.com
+m.facebook.com###MStoriesTray
+m.facebook.com###MBackNavBar
+m.facebook.com###u_0_5u_CB > ._-j7._7om2
+
+! 2022-05-12 https://sukidesuost.info
+sukidesuost.info##.ads_code
+
+! 2022-05-12 https://m.youtube.com
+m.youtube.com##.comment-simplebox-icon
+m.youtube.com##.comment-icon-container
+
+! 2022-05-12 https://www.youtube.com
+www.youtube.com##.no-transition.ytd-comment-simplebox-renderer.style-scope
+www.youtube.com###author-thumbnail > .ytd-comment-renderer.style-scope.yt-simple-endpoint
+www.youtube.com##.ytd-video-owner-renderer.style-scope.yt-simple-endpoint
+
+! 2022-05-12 https://www.facebook.com
+www.facebook.com##.ejjq64ki.v8c10jal.e3xpq0al.d2edcug0
+www.facebook.com##.j83agx80.cbu4d94t.buofh1pr.gju798k4 > div > div > .sonix8o1 > div > .buofh1pr.a8c37x1j
