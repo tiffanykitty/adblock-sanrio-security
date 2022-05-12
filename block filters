@@ -57,9 +57,4 @@ www.youtube.com##.ytd-video-primary-info-renderer.style-scope.super-title
 m.youtube.com##.top-standalone-badge
 
 ! 2022-05-12 https://www.google.com.mx
-www.google.com.mx##.GNm3Qb.HDOrGf.rwA8ec > [href="#"]
-www.google.com.mx##.HDOrGf.xSQxL
-
-! 2022-05-12 https://www.google.com.mx
-www.google.com.mx##div.GNm3Qb:nth-of-type(1)
-www.google.com.mx##.HDOrGf.xSQxL
+www.google.com.mx##.smiUbb.fbar
