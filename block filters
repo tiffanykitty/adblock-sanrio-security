@@ -71,4 +71,14 @@ www.google.com.mx###footer__lgbr
 m.youtube.com##ytm-watch-metadata-app-promo-renderer
 m.youtube.com##.rich-grid-renderer-header
 
+! 2022-05-14 https://www.youtube.com
+www.youtube.com##ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope:nth-of-type(2)
+www.youtube.com##yt-related-chip-cloud-renderer.ytd-watch-next-secondary-results-renderer.style-scope
+www.youtube.com###super-title
+www.youtube.com###voice-search-button
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-bottom-left-quad.ytp-ce-video.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-bottom-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-bottom-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-cards-button.ytp-button
+
 
