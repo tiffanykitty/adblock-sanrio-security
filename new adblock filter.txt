@@ -1,0 +1,75 @@
+twitch.tv##+js(twitch-videoad)
+! 2023-06-18 https://m.youtube.com
+m.youtube.com##.cbox.ytm-autonav-bar
+
+! 2023-06-18 https://tribunacampeche.com
+tribunacampeche.com###myModalPublicidad
+tribunacampeche.com###af-preloader
+
+! 2023-06-23 https://m.facebook.com
+m.facebook.com##div.displayed.m:nth-of-type(5)
+
+! 2023-07-25 https://www.youtube.com
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+
+! 2023-07-31 https://6ezuoi8st8hvl6d01htl8danxhvudi.ext-twitch.tv
+6ezuoi8st8hvl6d01htl8danxhvudi.ext-twitch.tv##.main-content
+6ezuoi8st8hvl6d01htl8danxhvudi.ext-twitch.tv##.App-dark
+6ezuoi8st8hvl6d01htl8danxhvudi.ext-twitch.tv##.react-draggable.App-videoOverlay.App
+
+! 2023-08-08 https://www.facebook.com
+www.facebook.com###splash-screen
+
+! 2023-08-10 https://m.youtube.com
+m.youtube.com##.cbox.header-thumbnail
+m.youtube.com##.yt-core-image--loaded.yt-core-image--content-mode-scale-aspect-fill.yt-core-image.yt-core-image--fill-parent-width.yt-core-image--fill-parent-height.ytm-comments-entry-point-teaser-avatar
+
+! 2023-08-22 https://www.twitch.tv
+www.twitch.tv##.video-player__overlay.kfOuIF.Layout-sc-1xcs6mc-0 > .fYzbEF.Layout-sc-1xcs6mc-0
+! 2023-10-15 https://www.youtube.com
+
+youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
+
+youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
+
+youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
+
+youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+
+! 2023-11-11 https://www.twitch.tv
+www.twitch.tv##.adblock-overlay
+
+! 2024-03-17 https://www.youtube.com
+www.youtube.com###fulfilled-layout > .ytd-ad-slot-renderer.style-scope
+
+! 2024-04-11 https://www.twitch.tv
+www.twitch.tv##.hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .cegTsp.bTXTVH.ScCoreButtonSecondary-sc-ocjdkq-2.ScCoreButton-sc-ocjdkq-0
+
+! 2024-05-03 https://www.facebook.com
+www.facebook.com##.x1ceravr.xgmub6v.x193iq5w
+
+! 2024-05-03 https://www.nauzetjesus.com
+www.nauzetjesus.com##.zfgbrxylkwhjqwjtqvgdmnysdbvvjicuhrshvpoeuwxzjqklstjtmrg.twntepimhlwlncstatpneksxulrjumzuzismndpsnhwxvrmtzcmdjtmrg
+
+! 2024-05-08 https://tipsdesalud.tips
+tipsdesalud.tips##.myapp-container
+
+! 31 may 2024 https://laopcion.com.mx
+laopcion.com.mx##body > div
+
+! 5 jun 2024 https://www.facebook.com
+www.facebook.com##.x1n2onr6.x16n37ib.xod5an3.xq8finb.x14vqqas.x2bj2ny
+www.facebook.com##.xyamay9.x1pi30zi.x1swvt13 > .x1n2onr6.xod5an3.x14vqqas.x2bj2ny
+
+! 8 jun 2024 https://www.crunchyroll.com
+www.crunchyroll.com##.banner-wrapper
+
+! 12 jun 2024 https://www.twitch.tv
+www.twitch.tv##.kBtJDm.InjectLayout-sc-1i43xsx-0 > .cegTsp.ljgEdo.ScCoreButtonSecondary-sc-ocjdkq-2.ScCoreButton-sc-ocjdkq-0
+
+! 20 jun 2024 https://7jxiznd01xfopo19fx8itnoe9gpeln.ext-twitch.tv
+7jxiznd01xfopo19fx8itnoe9gpeln.ext-twitch.tv###extension-menu-layer
+
+! 3 ago 2024 https://app.asktoai.com
+app.asktoai.com##.bottom-0.top-0.z-\[60\].h-screen.w-screen.fixed
+
