@@ -73,3 +73,4 @@ www.twitch.tv##.kBtJDm.InjectLayout-sc-1i43xsx-0 > .cegTsp.ljgEdo.ScCoreButtonSe
 ! 3 ago 2024 https://app.asktoai.com
 app.asktoai.com##.bottom-0.top-0.z-\[60\].h-screen.w-screen.fixed
 
+www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
