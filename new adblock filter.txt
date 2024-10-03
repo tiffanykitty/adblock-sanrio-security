@@ -70,7 +70,4 @@ www.twitch.tv##.kBtJDm.InjectLayout-sc-1i43xsx-0 > .cegTsp.ljgEdo.ScCoreButtonSe
 ! 20 jun 2024 https://7jxiznd01xfopo19fx8itnoe9gpeln.ext-twitch.tv
 7jxiznd01xfopo19fx8itnoe9gpeln.ext-twitch.tv###extension-menu-layer
 
-! 3 ago 2024 https://app.asktoai.com
 app.asktoai.com##.bottom-0.top-0.z-\[60\].h-screen.w-screen.fixed
-
-www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
